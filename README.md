@@ -1,5 +1,6 @@
 # Query Builder
- Exemplo de uma aplicação, onde há uma classe responsável por criar comandos SQL.
+ Exemplo de uma aplicação usando Query Builder. Com ela podemos criar comandos SQL dinâmicamente, 
+ sem precisar ficarmos fazendo tudo à mão.
  
  Para fazer o teste, basta importar o banco e adicionar a aplicação no seu localhost.
  
