@@ -30,7 +30,7 @@
  ```php
    namespace App\Entity;
    use \App\Db\Database;
-   use\PDO;
+   use \PDO;
  
    class Vaga{
     
